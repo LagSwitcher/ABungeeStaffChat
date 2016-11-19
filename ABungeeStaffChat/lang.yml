@@ -1,0 +1,8 @@
+no-permission: "&cYou have no permission to execute this command!"
+sc-enable: "&aYou enabled staffchat!"
+sc-disable: "&cYou disabled staffchat!"
+sc-toggle-enable: "&aYou enabled staffhcat toggle!"
+sc-toggle-disable: "&cYou disabled staffchat toggle!"
+sc-reply-no-target: "&cYou have nobody to reply to!"
+sc-reload: "&aYou reloaded the configuration!"
+sc-disabled: "&cYou cannot staffchat while you have disabled staffchat!"

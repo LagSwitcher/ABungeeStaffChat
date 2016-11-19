@@ -1,0 +1,5 @@
+sc-command: /sc
+scdisable-command: /scdisable
+screload-command: /screload
+sctoggle-command: /sctoggle
+sc-layout: "&b[&6StaffChat&b] &9(%server%) &2%player%: &e%message%"
